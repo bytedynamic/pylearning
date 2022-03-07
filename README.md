@@ -1,5 +1,3 @@
-1. [商汤笔试20190819 - ivyharding_wang - 博客园](https://www.cnblogs.com/ivyharding/p/11380070.html)
-
 2. [人工智能面试题86问，新手找工作必备！ - 祈澈姑娘 - 博客园](https://www.cnblogs.com/wangting888/p/7743928.html)
 
 3. [数据挖掘中的常见数据预处理方法总结 - 张梓寒 - 博客园](https://www.cnblogs.com/ZihanZhang/p/15765123.html)
@@ -12,13 +10,9 @@
 
 7. [如何用大数据技术搭建政策分析框架？](https://mp.weixin.qq.com/s?__biz=MzAxMTAzNjE2Mw==&mid=2247489106&idx=1&sn=dfa83edb191d400b255e0e7b7b8598fd&chksm=9b46653eac31ec281377fc7456ed73416e3914ba975b2824ac16b449fd8654efb55f4759916a&mpshare=1&scene=24&srcid=0123SApkr3klnb4qwCYHeyhR&sharer_sharetime=1642939600326&sharer_shareid=d7de7f002fcee64f0554ce182581d545&ascene=14&devicetype=android-29&version=28001339&nettype=WIFI&abtest_cookie=AAACAA%3D%3D&lang=zh_CN&exportkey=AYNqcM%2BVIdlm6%2FwbXZSy3mY%3D&pass_ticket=%2Bog2YIqT70S2%2FoLR7tufG22uIU5JVNvmG%2Fdk75QbDkjZmeuwtH5oeQShegESBojq&wx_header=3)
 
-8. [博客园](https://www.cnblogs.com/)
-
 9. [一文读懂深度学习中的各种卷积](https://mp.weixin.qq.com/s?__biz=MzA4MjYwMTc5Nw==&mid=2648963081&idx=1&sn=d227bd975c7793fe719268884f92db10&chksm=87946a23b0e3e3355f88670ac86197a534f7ed5c1fff735dd54bcccac24e3f20396d91322698&scene=90&subscene=93&sessionid=1643861032&clicktime=1643861034&enterid=1643861034#rd)
 
 10. [【机器学习基础】一文带你用sklearn做特征工程](https://mp.weixin.qq.com/s?__biz=MzA4MjYwMTc5Nw==&mid=2648963029&idx=1&sn=3865a4c9a1fcab7abc2bdf1733100682&chksm=879465ffb0e3ece961ae1b24cddac80cf93e3b2f97dfa54d991bdc5401b7f6799e37cc3bce3c&sessionid=1643861032&scene=126&clicktime=1643861148&enterid=1643861148&ascene=3&devicetype=android-29&version=28001339&nettype=WIFI&abtest_cookie=AAACAA%3D%3D&lang=zh_CN&exportkey=ASMwATFQz3rVySEzDmmQoUE%3D&pass_ticket=%2FwvffP3mBdMmuSbHP5mJMJHNhs2W9G7NvN%2BK6CdaQZz%2B1LRIzZDYOgx9mBJB8IxJ&wx_header=3)
-
-11. [pandas API](https://pandas.pydata.org/docs/reference/index.html)
 
 12. [一个CV算法工程师在技术方面的反思！](https://mp.weixin.qq.com/s?__biz=MzIyNjM2MzQyNg==&mid=2247607026&idx=1&sn=2b2710e3d0bb3b001d8d0c30e521317d&chksm=e872f3bfdf057aa9bf5cde7e9a8b1f7b4f30a15aca50dab937be65bfe321e0962ae1f2964f09&scene=90&subscene=93&sessionid=1643876258&clicktime=1643876379&enterid=1643876379#rd)
 
@@ -43,8 +37,6 @@
 22. [线性判别分析（Linear Discriminant Analysis） - cute_Learner - 博客园](https://www.cnblogs.com/BlairGrowing/p/15863279.html)
 
 23. [【交易技术前沿】雪球期权价格计算的 FPGA 实现](https://mp.weixin.qq.com/s?__biz=MzI0NTAwNjMwOA==&mid=2650693143&idx=1&sn=c44d5e1299f92991c0dcdd9ba14b56bb&chksm=f15fd49cc6285d8abc08873525571f77421bc6ed7c42f4d5a2797577d432ceafb302a2bd9888&sessionid=0&scene=126&clicktime=1644081910&enterid=1644081910&ascene=3&devicetype=android-29&version=28001339&nettype=WIFI&abtest_cookie=AAACAA%3D%3D&lang=zh_CN&exportkey=AX76M0%2FRySl2ObvlQn4E%2BKs%3D&pass_ticket=jjvh75aORHzY1Ux%2FistReoNw8LzZW0z5LCY1l%2BDGfx36rwvohCwqyt3ZVKWP8QAz&wx_header=3)
-
-24. [sklearn](https://scikit-learn.org/stable/user_guide.html)
 
 25. [Github上的10个数据科学和机器学习知识库](https://mp.weixin.qq.com/s?__biz=MzU5OTM2NjYwNg==&mid=2247493948&idx=1&sn=3a3b31909b1decb8924941fd14374d21&chksm=feb4a79dc9c32e8b45bdb5cd54b6eede5831eec677879b160bf6cb3b4ce11b7d2f06a1552d38&scene=90&subscene=93&sessionid=1644118679&clicktime=1644118742&enterid=1644118742&ascene=56&devicetype=android-29&version=28001339&nettype=WIFI&abtest_cookie=AAACAA%3D%3D&lang=zh_CN&exportkey=AXga05CT4VEr8hSIZwLcXK8%3D&pass_ticket=jjvh75aORHzY1Ux%2FistReoNw8LzZW0z5LCY1l%2BDGfx36rwvohCwqyt3ZVKWP8QAz&wx_header=3)
 
@@ -115,8 +107,6 @@
 58. [机器学习入门：逻辑回归模型](https://mp.weixin.qq.com/s?__biz=Mzg3ODY2MDAyMQ==&mid=2247505538&idx=2&sn=141b2d933be8cb1a67b69f1b62d3a744&chksm=cf12c658f8654f4eb795ad28003d7769c47cdd25e31628df49fe645e2bb16568a1e706fb01d8&sessionid=1644902080&scene=126&clicktime=1644904723&enterid=1644904723&ascene=3&devicetype=android-29&version=2800133b&nettype=cmnet&abtest_cookie=AAACAA%3D%3D&lang=zh_CN&exportkey=ASVb5qA8R%2FCOdcqbccVGKiI%3D&pass_ticket=hygy%2BkcRfgfnoP4oCPICPhW9i9EvCyf78qyUqAwksY9fP4uoyRzuh8JQ0sgxvtUt&wx_header=3)
 
 59. [机器学习神器Scikit-Learn保姆级入门教程](https://mp.weixin.qq.com/s?__biz=Mzg3ODY2MDAyMQ==&mid=2247503119&idx=1&sn=687622d2a1d1019b2996228e5893ce99&chksm=cf12ddd5f86554c3cab62f453f8bc8f2ae3ae390e7338563fd4e8ec8c0df406b90bfcdc112b4&sessionid=1644902080&scene=126&clicktime=1644904777&enterid=1644904777&ascene=3&devicetype=android-29&version=2800133b&nettype=cmnet&abtest_cookie=AAACAA%3D%3D&lang=zh_CN&exportkey=AQIfhp9MVPW0sNj%2BR%2FuBcgY%3D&pass_ticket=hygy%2BkcRfgfnoP4oCPICPhW9i9EvCyf78qyUqAwksY9fP4uoyRzuh8JQ0sgxvtUt&wx_header=3)
-
-60. [Gitee](https://gitee.com/bytedynamic/dashboard)
 
 61. [DCIC海上船舶检测：PPYOLO 0.92方案](https://mp.weixin.qq.com/s?__biz=MzIwNDA5NDYzNA==&mid=2247498060&idx=1&sn=f192f738f9de5d34bd97d7636aeca538&chksm=96c7d489a1b05d9f0fc594aa7567d0d1a76824c738e88c8a7a59180daf880a3ab922ac6b0793&scene=90&subscene=93&sessionid=1644982331&clicktime=1644982351&enterid=1644982351&ascene=56&devicetype=android-29&version=2800133b&nettype=cmnet&abtest_cookie=AAACAA%3D%3D&lang=zh_CN&exportkey=AZFfPR8bE6sFkPzVcGiQLpc%3D&pass_ticket=6d57CiRTEAv2Zg9A1dfsMpqJhhV0ilUD7wdtLVqKlgU8qAGJDgp0UPABtAoqWFl%2B&wx_header=3)
 
